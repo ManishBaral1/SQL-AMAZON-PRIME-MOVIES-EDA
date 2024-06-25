@@ -5,7 +5,8 @@
 
 
 
-
+### Data Source
+The data for our SQL Analysis is taken from kaggle. Amazon prime movies and TV shows data is a public data.(https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 
 
