@@ -1,4 +1,5 @@
 # SQL-AMAZON-PRIME-MOVIES-EDA
+![http://assets.stickpng.com/app/pattern.png]
 
 In today's digital era, Amazon Prime Video, along with other online OTT (Over-The-Top) platforms, plays a pivotal role in shaping the entertainment landscape. These platforms offer a vast array of movies, TV shows, and original content, providing viewers with instant access to entertainment from the comfort of their homes. This convenience, coupled with the ability to stream high-quality content on various devices, has revolutionized the way people consume media. The data for our SQL exploratory analysis, sourced from Kaggle's Amazon Prime Movies and TV Shows dataset, allows us to delve deeper into the trends and patterns in the content offered on Amazon Prime Video, providing valuable insights into its diverse catalog and popularity.
 
