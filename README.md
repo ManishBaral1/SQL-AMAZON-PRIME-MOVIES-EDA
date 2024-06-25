@@ -1,5 +1,7 @@
 # SQL-AMAZON-PRIME-MOVIES-EDA
 ![Amazon Prime](k.png)
+
+
 In today's digital era, Amazon Prime Video, along with other online OTT (Over-The-Top) platforms, plays a pivotal role in shaping the entertainment landscape. These platforms offer a vast array of movies, TV shows, and original content, providing viewers with instant access to entertainment from the comfort of their homes. This convenience, coupled with the ability to stream high-quality content on various devices, has revolutionized the way people consume media. The data for our SQL exploratory analysis, sourced from Kaggle's Amazon Prime Movies and TV Shows dataset, allows us to delve deeper into the trends and patterns in the content offered on Amazon Prime Video, providing valuable insights into its diverse catalog and popularity.
 
 Utilizing various SQL techniques such as SELECT statements, JOINs, and aggregate functions, we were able to extract meaningful information from the dataset. For instance, we identified the count of movies and TV shows by country, highlighting the platform's global reach and diverse content. We also pinpointed the top five directors with the most contributions, shedding light on influential figures in the industry. Additionally, our analysis of rating distributions and the frequency of movies and TV shows released each year revealed trends in consumer preferences and content availability over time. By exploring genres, durations, and specific keywords like "Love," we could better understand the thematic elements that resonate with audiences.
